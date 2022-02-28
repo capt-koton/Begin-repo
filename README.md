@@ -1,3 +1,3 @@
 # Demo
 
-You are beginning coding
+You are beginning coding in Git
